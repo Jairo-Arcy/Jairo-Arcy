@@ -4,11 +4,12 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/93508/lucas-bittencourt)](https://pt.stackoverflow.com/users/242850/jairo-arcy)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:jairo10arcy@gmail.com)
 
-## Hello World ! <img src="assets/fire.gif" width="22px">
+## Hello World ! <img src="assets/fire.gif" width="50px">
 
 
 
 - :sparkling_heart: Stack: ReactJS, Node, Mysql & React Native
+
 - :hurtrealbad: Soldado da Força aérea brasileira :muscle: 
 
 > :octocat: [https://github.com/Jairo-Arcy]()
@@ -29,7 +30,7 @@
     </a>
   </p>
 
-  ## Tecnologias já utilizadas
+  <p align="center">## Tecnologias já utilizadas</p>
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
@@ -46,5 +47,4 @@
   ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
   ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white)
   ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-  ![Prettier](https://img.shields.io/badge/-Prettier-1A2B34?style=flat-square&logo=prettier&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)

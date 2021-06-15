@@ -4,7 +4,7 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/93508/lucas-bittencourt)](https://pt.stackoverflow.com/users/242850/jairo-arcy)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:jairo10arcy@gmail.com)
 
-## Hello World ! <img src="assets/fire.gif" width="50px">
+## Hello World !<img src="assets/fire.gif" width="70px">
 
 
 
@@ -30,7 +30,7 @@
     </a>
   </p>
 
-  <p align="center">## Tecnologias já utilizadas</p>
+ ## Tecnologias já utilizadas
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)

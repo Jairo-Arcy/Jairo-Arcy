@@ -34,7 +34,6 @@
   </p>
 
 
- //## Projetos :green_heart:
 
   
 

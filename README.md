@@ -3,12 +3,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/jairo-arcy-873360174/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/93508/lucas-bittencourt)](https://pt.stackoverflow.com/users/242850/jairo-arcy)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:jairo10arcy@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/93508/lucas-bittencourt)](https://www.facebook.com/jairo.arcy.54)
 
 ## Hello World !<img src="assets/fire.gif" width="60px">
 
 
 
 - :sparkling_heart: Stack: ReactJS, Node, Mysql & React Native
+
+- :heart: Apaixonado por material-ui :purple_heart:
 
 - :hurtrealbad: Soldado da Força aérea brasileira :muscle: 
 
@@ -29,6 +32,11 @@
       <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=Jairotsb" alt="Trophies" />
     </a>
   </p>
+
+
+ ## Projetos :green_heart:
+
+  
 
  ## Tecnologias já utilizadas
 

@@ -56,3 +56,4 @@
   ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
   ![Material Ui](https://img.shields.io/badge/-Material%20UI-blue?style=flat-square&logo=materialui&logoColor=indigo)
+  ![Tailwindcss](https://img.shields.io/badge/-Tailwind-cyan?style=flat-square&logo=tailwindcss&logoColor=blue)

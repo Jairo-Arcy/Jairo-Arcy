@@ -1,8 +1,8 @@
 # :cop: Jairo Tunisse
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jairotsb/)](https://www.linkedin.com/in/jairo-arcy-873360174/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jairotsb/)](https://www.linkedin.com/in/jairotsb/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://https://pt.stackoverflow.com/users/242850/jairo-arcy)](https://pt.stackoverflow.com/users/242850/jairo-arcy)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:jairo10arcy@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jairo10arcy@gmail.com)](mailto:jairo10arcy@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-indigo?style=for-the-badge&logo=Facebook&logoColor=white&link=https://https://www.facebook.com/jairo.arcy.54)](https://www.facebook.com/jairo.arcy.54)
 
 ## Hello World !<img src="assets/fire.gif" width="60px">
@@ -42,6 +42,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
+  ![JavaScript](https://img.shields.io/badge/-php-1a237e?style=flat-square&logo=php&logoColor=fff)
   ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
   ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
   ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)

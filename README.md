@@ -21,12 +21,14 @@
 
   <br>
   
-  <a align="left"  href="https://github.com/anuraghazra/github-readme-stats">
+  <a align="center"  href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jairotsb&show_icons=true&count_private=true&theme=midnight-purple&hide=issues" />
   </a>
+<a align="center">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jairotsb&layout=compact)](https://github.com/Jairotsb/M.A.R.Y/)
 
+</a>
   
 ---
   

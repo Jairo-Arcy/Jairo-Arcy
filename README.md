@@ -19,11 +19,15 @@
 
 ---
 
-  <br>
+  <br/>
   
   <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jairotsb&show_icons=true&count_private=true&theme=midnight-purple&hide=issues" />
   </div>
+
+  <br/>
+
+
 <div align="center">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jairotsb&layout=compact)](https://github.com/Jairotsb/Web-Simple-View/)

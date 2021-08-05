@@ -25,7 +25,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jairotsb&show_icons=true&count_private=true&theme=midnight-purple&hide=issues" />
   </a>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jairotsb&layout=compact)](https://github.com/Jairotsb/)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jairotsb&layout=compact)](https://github.com/Jairotsb/M.A.R.Y/)
 
   
 ---

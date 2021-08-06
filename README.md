@@ -37,11 +37,14 @@
 <details>
   <summary> <b> Projetos Open-Source Recentes</b> <i>Clique para expandir :godmode:</i> </summary>
   <br>
-  
+  <div align="center">
+
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jairotsb&repo=Web-Simple-View)](https://github.com/Jairotsb/Web-Simple-View)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jairotsb&repo=WhatsApp-Web-Interface-React)](https://github.com/Jairotsb/WhatsApp-Web-Interface-React)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jairotsb&repo=U-Pacients)](https://github.com/Jairotsb/U-Pacients)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jairotsb&repo=Be-the-hero)](https://github.com/Jairotsb/Be-the-hero)
+  
+  </div>
 
 </details>
 

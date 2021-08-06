@@ -30,10 +30,29 @@
 
 <div align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jairotsb&layout=compact)](https://github.com/Jairotsb/Web-Simple-View/)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jairotsb&layout=compact)](https://github.com/Jairotsb/Web-Simple-View)
 
 </div>
   
+<details>
+  <summary> <b> Projetos Open-Source Recentes</b> <i>Clique para expandir :godmode:</i> </summary>
+  <br>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jairotsb&repo=Web-Simple-View)](https://github.com/Jairotsb/Web-Simple-View)
+
+  <br/>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jairotsb&repo=Web-Simple-View)](https://github.com/Jairotsb/WhatsApp-Web-Interface-React)
+
+  <br/>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jairotsb&repo=Web-Simple-View)](https://github.com/Jairotsb/U-Pacients)
+
+  <br/>
+
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jairotsb&repo=Web-Simple-View)](https://github.com/Jairotsb/Be-the-hero)
+</details>
+
 ---
   
   <p align="center">

@@ -11,9 +11,9 @@
 
 - :sparkling_heart: Stack: ReactJS, Node, Mysql & React Native
 
-- :heart: Apaixonado por material-ui :purple_heart:
+- :heart: Love material-ui :purple_heart:
 
-- :hurtrealbad: Soldado da Força aérea brasileira :muscle: 
+- :hurtrealbad: Militar of Brazilian Air Force :muscle: 
 
 > :octocat: [https://github.com/Jairotsb]()
 
@@ -26,16 +26,9 @@
   </div>
 
   <br/>
-
-
-<div align="center">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jairotsb&layout=compact)](https://github.com/Jairotsb/Web-Simple-View)
-
-</div>
   
 <details>
-  <summary> <b> Projetos Open-Source Recentes</b> <i>Clique para expandir :godmode:</i> </summary>
+  <summary> <b> Recent open source projects</b> <i>click here for expand :godmode:</i> </summary>
   <br>
   <div align="center">
 
@@ -76,7 +69,7 @@
 
   
 
- ## Tecnologias já utilizadas
+ ## Used tecnologies :white_check_mark:
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)

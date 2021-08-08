@@ -22,7 +22,9 @@
   <br/>
   
   <div align="center">
+  <a href="https://github.com/Jairotsb?tab=repositories">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jairotsb&show_icons=true&count_private=true&theme=midnight-purple" />
+  </a>
   </div>
 
   <br/>

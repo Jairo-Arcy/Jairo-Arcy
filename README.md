@@ -22,11 +22,11 @@
   <br/>
   
   <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jairotsb&show_icons=true&count_private=true&theme=midnight-purple&hide=issues" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jairotsb&show_icons=true&count_private=true&theme=midnight-purple" />
   </div>
 
   <br/>
-  
+
 <details>
   <summary> <b> Recent open source projects</b> <i>click here for expand :godmode:</i> </summary>
   <br>

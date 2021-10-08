@@ -11,8 +11,6 @@
 
 - :sparkling_heart: Stack: ReactJS, Node, Mysql & React Native
 
-- :heart: Love material-ui :purple_heart:
-
 - :hurtrealbad: Militar of Brazilian Air Force :muscle: 
 
 > :octocat: [https://github.com/Jairotsb]()

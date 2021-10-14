@@ -7,8 +7,6 @@
 
 ## Hello World !<img src="assets/fire.gif" width="60px">
 
-
-
 - :sparkling_heart: Stack: ReactJS, Node, Mysql & React Native
 
 - :hurtrealbad: Militar of Brazilian Air Force :muscle: 
@@ -26,33 +24,6 @@
   </div>
 
   <br/>
-
-<details>
-  <summary> <b> Recent open source projects</b> <i>click here for expand :godmode:</i> </summary>
-  <br>
- <div align="center">
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jairotsb&repo=WhatsApp-Web-Interface-React)](https://github.com/Jairotsb/WhatsApp-Web-Interface-React)
-
- </div>
-  <div align="center">
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jairotsb&repo=Web-Simple-View)](https://github.com/Jairotsb/Web-Simple-View)
-
-  </div>
- <div align="center">
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jairotsb&repo=Be-the-hero)](https://github.com/Jairotsb/Be-the-hero)
-
-  </div>
- <div align="center">
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jairotsb&repo=U-Pacients)](https://github.com/Jairotsb/U-Pacients)
-
- </div>
-
-</details>
-
 ---  
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">

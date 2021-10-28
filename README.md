@@ -5,33 +5,44 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jairo10arcy@gmail.com)](mailto:jairo10arcy@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-indigo?style=for-the-badge&logo=Facebook&logoColor=white&link=https://https://www.facebook.com/jairo.arcy.54)](https://www.facebook.com/jairo.arcy.54)
 
-## Hello World !<img src="assets/fire.gif" width="60px">
+## Hello <img src="assets/fire.gif" width="60px">
 
-- :sparkling_heart: Stack: ReactJS, Node, Mysql & React Native
+- 💜 Stack: ReactJS, Node, Mysql & React Native
 
-- :hurtrealbad: Militar of Brazilian Air Force :muscle: 
+- Militar @EEAR :muscle: 
 
 > :octocat: [https://github.com/Jairotsb]()
+
+Enthusiast of the entire Javascript ecosystem.
+
+Hi, My name is Jairo Tunisse, 20. I currently practice my knowledge in open source projects, analyzing digital implementations in my work sector and developing system solutions for some companies.
+
+"Make it Happen"
 
 ---
 
   <br/>
   
-  <div align="center">
+<details>
+  <summary>More About me <i>click here<i></summary>
+    <br/>
+        
+<div align="center">
   <a href="https://github.com/Jairotsb?tab=repositories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jairotsb&show_icons=true&count_private=true&theme=midnight-purple" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jairotsb&show_icons=true&count_private=true&theme=midnight-purple" />
   </a>
-  </div>
+</div>
 
-  <br/>
+ <br/>
   
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=Jairotsb" alt="Trophies" />
-    </a>
-  </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=Jairotsb" alt="Trophies" />
+  </a>
+</p>
+</details>
 
- ## Used tecnologies :white_check_mark:
+ ## Used technologies :white_check_mark:
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)

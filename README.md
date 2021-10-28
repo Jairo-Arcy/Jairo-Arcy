@@ -1,9 +1,5 @@
 # Hello <img src="assets/fire.gif" width="60px">
 
-- 💜 Stack: ReactJS, Node, Mysql & React Native
-
-- Militar @EEAR :muscle: 
-
 > :octocat: [https://github.com/Jairotsb]()
 
 Enthusiast of the entire Javascript ecosystem.
@@ -11,6 +7,10 @@ Enthusiast of the entire Javascript ecosystem.
 Hi, My name is Jairo Tunisse, 20. I currently practice my knowledge in open source projects, analyzing digital implementations in my work sector and developing system solutions for some companies.
 
 "Make it Happen"
+
+- 💜 Stack: ReactJS, Node, Mysql & React Native
+
+- Militar @EEAR :muscle: 
 
 ---
 

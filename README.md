@@ -1,11 +1,4 @@
-# :cop: Jairo Tunisse
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jairotsb/)](https://www.linkedin.com/in/jairotsb/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://https://pt.stackoverflow.com/users/242850/jairo-arcy)](https://pt.stackoverflow.com/users/242850/jairo-arcy)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jairo10arcy@gmail.com)](mailto:jairo10arcy@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-indigo?style=for-the-badge&logo=Facebook&logoColor=white&link=https://https://www.facebook.com/jairo.arcy.54)](https://www.facebook.com/jairo.arcy.54)
-
-## Hello <img src="assets/fire.gif" width="60px">
+# Hello <img src="assets/fire.gif" width="60px">
 
 - 💜 Stack: ReactJS, Node, Mysql & React Native
 
@@ -20,6 +13,11 @@ Hi, My name is Jairo Tunisse, 20. I currently practice my knowledge in open sour
 "Make it Happen"
 
 ---
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jairotsb/)](https://www.linkedin.com/in/jairotsb/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://https://pt.stackoverflow.com/users/242850/jairo-arcy)](https://pt.stackoverflow.com/users/242850/jairo-arcy)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jairo10arcy@gmail.com)](mailto:jairo10arcy@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-indigo?style=for-the-badge&logo=Facebook&logoColor=white&link=https://https://www.facebook.com/jairo.arcy.54)](https://www.facebook.com/jairo.arcy.54)
 
   <br/>
   

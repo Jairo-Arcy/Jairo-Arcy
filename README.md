@@ -1,10 +1,10 @@
-# Hello <img src="assets/fire.gif" width="60px">
+# Hi, Welcome!<img src="assets/fire.gif" width="60px">
 
 > :octocat: [https://github.com/Jairotsb]()
 
 Enthusiast of the entire Javascript ecosystem.
 
-Hi, My name is Jairo Tunisse, 20. I currently practice my knowledge in open source projects, analyzing digital implementations in my work sector and developing system solutions for some companies.
+My name is Jairo Tunisse, 20. I currently practice my knowledge in open source projects, analyzing digital implementations in my work sector and developing system solutions for some companies.
 
 "Make it Happen"
 

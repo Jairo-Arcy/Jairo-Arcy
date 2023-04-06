@@ -4,10 +4,6 @@
 
 My name is Jairo Tunisse, 21. 
 
-"Make it Happen"
-
-- Militar @EEAR :muscle: 
-
 ---
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jairotsb/)](https://www.linkedin.com/in/jairotsb/)

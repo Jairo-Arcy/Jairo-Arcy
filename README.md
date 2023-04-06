@@ -1,6 +1,6 @@
 # Hi, Welcome!<img src="assets/fire.gif" width="60px">
 
-> 💻 [https://www.jairotunisse.dev]()
+> 💻 https://www.jairotunisse.dev
 
 My name is Jairo Tunisse, 21. 
 

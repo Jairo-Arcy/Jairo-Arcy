@@ -11,54 +11,16 @@ Gosto de trabalhar em diversos projetos utilizando uma das melhores tecnologias 
 ## 🛠 Habilidades
 
 Frontend
-
-- Tailwindcss   
+- Tailwindcss - M-ui - Bootstrapcss - Chakra-ui - NextJs - ViteJs - Styled-components - Axios - ContextApi - Hooks
     
-- M-ui 
-
-- Bootstrapcss
-
-- Chakra-ui
-    
-- NextJs
-
-- ViteJs
-
-- Styled-components
-
- - Axios
-
-- ContextApi 
-
-- Hooks
-
 Backend
 
-- Insomnia
-
-- Mongodb
-
-- Firebase
-
-- Prisma
-
-- JWT
-
-- Api Rest
-
-- Microservices
-
-
+- Insomnia - Mongodb - Firebase - Prisma - JWT - Api Rest - Microservices
+  
 Mobile
 
-- styled-components
-
-- M-ui
-
-- Tailwind-Native
-    
-
-
+- styled-components - M-ui - Tailwind-Native
+  
 ## Um pouco mais sobre mim
 👩‍💻 Trabalho como desenvolvedor Full-Stack Freelancer 
 

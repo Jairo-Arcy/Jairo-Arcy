@@ -12,50 +12,50 @@ Gosto de trabalhar em diversos projetos utilizando uma das melhores tecnologias 
 
 Frontend
 
-    - Tailwindcss   
+- Tailwindcss   
     
-    - M-ui 
+- M-ui 
 
-    - Bootstrapcss
+- Bootstrapcss
 
-    - Chakra-ui
+- Chakra-ui
     
-    - NextJs
+- NextJs
 
-    - ViteJs
+- ViteJs
 
-    - Styled-components
+- Styled-components
 
-    - Axios
+ - Axios
 
-    - ContextApi 
+- ContextApi 
 
-    - Hooks
+- Hooks
 
 Backend
 
-    - Insomnia
+- Insomnia
 
-    - Mongodb
+- Mongodb
 
-    - Firebase
+- Firebase
 
-    - Prisma
+- Prisma
 
-    - JWT
+- JWT
 
-    - Api Rest
+- Api Rest
 
-    - Microservices
+- Microservices
 
 
 Mobile
 
-    - styled-components
+- styled-components
 
-    - M-ui
+- M-ui
 
-    - Tailwind-Native
+- Tailwind-Native
     
 
 

@@ -26,7 +26,7 @@ Mobile
 
 🧠 Estou aprendendo mais sobre Frontend com ReactJS e Aprimorando os conhecimentos em nodeJs
 
-👯‍♀️ Procuro colaborar em projetos open-source e gosto bastante de projetos em equipe. (Typescript é vida :muscle:)
+:boom: Procuro colaborar em projetos open-source e gosto bastante de projetos em equipe. (Typescript é vida :muscle:)
 
 🤔 Procuro sempre aprimorar meus conhecimentos e estar atento as atualizações do mercado, utilizando sempre as mais atuais tecnologias.
 

@@ -1,8 +1,8 @@
-<p align="center" text-align="center" width="100px">
+<h3 align="center" font-size="28px">
       Full Stack Developer 💙🔥
-</p>
+</h3>
 
-Hey 👋 My name is Jairo Tunisse, and I'm 23 years old. I currently work as a third sergeant for the Brazilian Air Force in the IT section of the School of Aeronautics Specialists. I also have 4 years of experience in web development, working on freelance projects with ReactJs and NextJs. I've been studying programming since I was 15 years old and I have knowledge in NodeJs, BunJS, Docker, and i can develop Full Stack systems using JavaScript.
+Hey 👋 My name is Jairo Tunisse, and I'm 23 years old. I currently work as a third sergeant for the Brazilian Air Force in the IT section of the School of Aeronautics Specialists. I also have 4 years of experience in web development, working on freelance projects with ReactJs and NextJs. I've been studying programming since I was 15 years old and know NodeJs, BunJS, Docker, and i can develop Full Stack systems using JavaScript.
 
 ## Technologies
 <br>

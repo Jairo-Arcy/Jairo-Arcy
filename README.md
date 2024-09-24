@@ -1,44 +1,32 @@
+<p align="center" text-align="center" width="100px">
+      Full Stack Developer 💙🔥
+</p>
 
-# Olá, Seja bem vindo! 👋
+Hey 👋 My name is Jairo Tunisse, and I'm 23 years old. I currently work as a third sergeant for the Brazilian Air Force in the IT section of the School of Aeronautics Specialists. I also have 4 years of experience in web development, working on freelance projects with ReactJs and NextJs. I've been studying programming since I was 15 years old and I have knowledge in NodeJs, BunJS, Docker, and i can develop Full Stack systems using JavaScript.
 
-
-## 🚀 Sobre mim
-Desenvolvedor Full Stack :blue_heart:
-
-Gosto de trabalhar em diversos projetos utilizando uma das melhores tecnologias atuais: Typescript | ReactJS | NodeJs | React-Native 
-
-
-## 🛠 Habilidades
-
-Frontend
-- Tailwindcss - M-ui - Bootstrapcss - Chakra-ui - NextJs - ViteJs - Styled-components - Axios - ContextApi - Hooks
-    
-Backend
-
-- Insomnia - Mongodb - Firebase - Prisma - JWT - Api Rest - Microservices
-  
-Mobile
-
-- styled-components - M-ui - Tailwind-Native
-  
-## Um pouco mais sobre mim
-👩‍💻 Trabalho como desenvolvedor Full-Stack Freelancer 
-
-🧠 Estou aprendendo mais sobre Frontend com ReactJS e Aprimorando os conhecimentos em nodeJs
-
-:boom: Procuro colaborar em projetos open-source e gosto bastante de projetos em equipe. (Typescript é vida :muscle:)
-
-🤔 Procuro sempre aprimorar meus conhecimentos e estar atento as atualizações do mercado, utilizando sempre as mais atuais tecnologias.
+## Technologies
+<br>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,mysql,nodejs,ts,vscode,docker,postgres,nestjs,python,react,bun,tailwindcss" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,electron,express,netlify,prisma,sqlite,git,vite,obsidian" />
+  </a>
+</p>
+<br>
+<br>
 
 
-📫 Vamos conversar? fale comigo por [aqui](https://instagram.com.br/jairotunisse).
-
-
-⚡️ Não deixe para depois, faça acontecer :fire:
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://link.jairotunisse.dev)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Jairotsb)
-[![gmail](https://img.shields.io/badge/gmail-00000?style-for-the-badge&logo=gmail&logoColor=white)](https://mailto:jairotunisse10@gmail.com)
-
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Jairotsb&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Jairotsb&show_icons=true&theme=vision-friendly-dark&hide_border=true">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jairotsb&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark&hide_border=true">
+</div>
+ 
+<br>
